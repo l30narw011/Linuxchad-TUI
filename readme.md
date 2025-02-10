@@ -2,6 +2,11 @@
 
 Linuxchad-TUI es una aplicación de terminal que permite acceder al foro de [Linuxchad](https://foro.linuxchad.org) desde una interfaz basada en texto.  
 
+Capturas de pantalla :
+![1](screenshots/1.png)
+![2](screenshots/2.png)
+![3](screenshots/3.png)
+
 ## ⚠️ Importante  
 Esta aplicación **NO es oficial ni está afiliada con el foro**.  
 
